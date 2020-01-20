@@ -71,7 +71,7 @@ mysql>
 5-4. 平均: price
 
 ```sql
-mysql>
+mysql> select avg(price) from items;
 ```
 
 
